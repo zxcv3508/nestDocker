@@ -4,4 +4,4 @@ services:
     container_name: nest_api
     build: ./requirements/api
     ports:
-      - 8080:8080
+      - 8080:3000
